@@ -1,3 +1,3 @@
 # Organization-Website-Template
 
-A website template that can be used by a comoany or Organization to introduce themselves, showcase their work, add their contacts and so on.
+A website template that can be used by a company or organization to introduce themselves, showcase their work, allow clients to interact with them and so on
